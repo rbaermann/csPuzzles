@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb
